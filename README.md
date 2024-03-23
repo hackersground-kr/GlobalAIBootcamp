@@ -1,6 +1,11 @@
 # GlobalAIBootcamp
 글로벌 AI 부트캠프 리소스 정리
 
+## 행사 4주 전
+
+* 세션 진행자 섭외
+* 행사 운영진 섭외
+
 ## 행사 2주 전
 
 * [공식 홈페이지 개설](https://globalai.community/bootcamp/south-korea-daegu/)
