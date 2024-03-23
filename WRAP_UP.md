@@ -19,7 +19,7 @@
 
 ## 세션별 자료 정리
 
-이번 행사에서 진행한 세선별 자료를 정리해 보내드립니다.
+이번 행사에서 진행한 세선별 자료를 정리해 보내드립니다. 진행자 분들께서 세션별로 추가적으로 챙겨준다고 이야기한 부분은 아래 문서를 참고하시면 됩니다. 
 
 - 세션 1: [설문조사 수합을 한 큐에!](https://github.com/pmj-chosim/Collect_Survey_Result)
 - 세션 2: [누구나 쉽게 따라하는 AI 모델 생성](https://github.com/seoharuss/Azure_ML_Service_Designer)
