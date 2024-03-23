@@ -8,7 +8,7 @@
 
 * [공식홈페이지](https://globalai.community/bootcamp/south-korea-daegu/)
 
-![Global AI Bootcamp](assets/south-korea_daegu_119_banner.png)
+<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/cloud_skills_challenge.png?raw=true" width=70% height=auto alt="Global AI Bootcamp"/>
 
 ## 세션별 자료 정리
 
@@ -25,9 +25,8 @@
 
 나도 마이크로소프트 학생홍보대사 신청하기!  
 * [마이크로소프트 학생홍보대사 신청링크](https://aka.ms/mlsakorea)
-* [대경 클라우드 학생 개발자 오카방](https://aka.ms/student-developers/daegu) (비밀번호 8080)
 
-![mlsa](assets/mlsa.png)
+<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/mlsa.png?raw=true" width=70% height=auto alt="mlsa"/>
 
 
 ## 클라우드 스킬 챌린지 신청하기
@@ -38,6 +37,13 @@ MLSA와 함께 온라인으로 공부할 수 있는 기회가 있습니다! 클�
 
 * [클라우드 스킬 챌린지 신청하기](https://aka.ms/hg/csc/register)
 * [클스챌 스트리밍 플레이리스트](https://aka.ms/hg/csc/playlist)
-* [해커그라운드 디스코드](https://aka.ms/hg/discord)
 
-![cloud skills challenge](assets/cloud_skills_challenge.png)
+<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/cloud_skills_challenge.png?raw=true" width=70% height=auto alt="mlsa"/>
+
+
+## 대구 경북 개발자 커뮤티니 채널 안내
+
+대구에도 개발자, 학생개발자 분들이 온라인에 모인 곳이 있습니다! 아래 링크에 참여해 많은 기회를 잡으세요!  
+
+* [해커그라운드 디스코드](https://aka.ms/hg/discord)
+* [대경 클라우드 학생 개발자 오카방](https://aka.ms/student-developers/daegu) (비밀번호 8080)
