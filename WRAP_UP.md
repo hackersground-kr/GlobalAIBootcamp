@@ -8,7 +8,7 @@
 
 * [공식홈페이지](https://globalai.community/bootcamp/south-korea-daegu/)
 
-<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/cloud_skills_challenge.png?raw=true" width=70% height=auto alt="Global AI Bootcamp"/>
+<img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/south-korea_daegu_119_banner.png?raw=true" width=70% height=auto alt="Global AI Bootcamp"/>
 
 ## 세션별 자료 정리
 
