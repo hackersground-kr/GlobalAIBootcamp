@@ -10,11 +10,18 @@
 
 <img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/south-korea_daegu_119_banner.png?raw=true" width=70% height=auto alt="Global AI Bootcamp"/>
 
+## 행사 만족도 조사
+
+이번 행사에서 느끼신 점을 운영진에게 알려주시면 다음해 더 발전된 행사를 준비하겠습니다. 여러분들의 느낀 점을 남겨주세요
+
+* [만족도 조사 참여하기](https://forms.office.com/r/9GaGsSWmiC)
+
+
 ## 세션별 자료 정리
 
 이번 행사에서 진행한 세선별 자료를 정리해 보내드립니다.
 
-- 세션 1: [설문조사 수합을 한 큐에!]((https://github.com/pmj-chosim/Collect_Survey_Result))
+- 세션 1: [설문조사 수합을 한 큐에!](https://github.com/pmj-chosim/Collect_Survey_Result)
 - 세션 2: [누구나 쉽게 따라하는 AI 모델 생성](https://github.com/seoharuss/Azure_ML_Service_Designer)
 - 세션 3: [DALL-E와 미드저니로 나만의 비주얼 세계 창조](https://github.com/dev-jiseok/CreateImages-AzureOpenAI?tab=readme-ov-file)
 
